@@ -23,5 +23,6 @@
   ],
   "nxCloudId": "674882c94c14ce1edf532480",
   "nxCloudUrl": "https://staging.nx.app",
-  "useLegacyCache": true
+  "useLegacyCache": true,
+  "cacheBust": 1
 }
